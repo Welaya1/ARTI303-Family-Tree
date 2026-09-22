@@ -1,0 +1,24 @@
+
+3 ?- father(ali, welaya).
+true.
+
+4 ?- father(ali, ahmed).
+true.
+
+5 ?- mother(salama, welaya).
+true.
+
+6 ?- mother(salama, jafar).
+true.
+
+7 ?- sister(welaya, durrah).
+true .
+
+8 ?- sister(welaya, eman).
+true .
+
+9 ?- brother(ahmed, welaya).
+true 
+% Break level 1
+[1] 10 ?- brother(jafar, welaya).
+true .
